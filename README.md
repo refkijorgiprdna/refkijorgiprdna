@@ -1,8 +1,8 @@
 ### Hi there, I'm Refki! 👋
 
 <p>
-  <img align="left" width"47%" src="https://github-readme-stats.vercel.app/api?username=refkijorgiprdna&show_icons=true&theme=radical" >
-  <img align="left" width"47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refkijorgiprdna&layout=compact&theme=radical&hide=html,css" >
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=refkijorgiprdna&show_icons=true&theme=radical" >
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refkijorgiprdna&layout=compact&theme=radical&hide=html,css" >
 </p>
 
 
