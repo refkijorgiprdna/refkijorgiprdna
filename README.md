@@ -1,7 +1,11 @@
 ### Hi there, I'm Refki! 👋
 
-<!-- <img align="left" width"47%" src="https://github-readme-stats.vercel.app/api?username=refkijorgiprdna&show_icons=true&theme=radical" >
-<img align="left" width"47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refkijorgiprdna&layout=compact" > -->
+<p align="left">
+  <img align="left" width"47%" src="https://github-readme-stats.vercel.app/api?username=refkijorgiprdna&show_icons=true&theme=radical" >
+  <img align="left" width"47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refkijorgiprdna&layout=compact&theme=radical&hide=html,css" >
+</p>
+
+
 
 <!--
 **refkijorgiprdna/refkijorgiprdna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
