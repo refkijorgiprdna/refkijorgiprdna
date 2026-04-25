@@ -1,8 +1,8 @@
 ### Hi there, I'm Refki! 👋
 
-<p>
+<!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refkijorgiprdna&layout=compact&theme=radical&hide=html,css" >
-</p>
+</p> -->
 
 
 
